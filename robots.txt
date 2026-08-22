@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flossysmiless.netlify.app/sitemap.xml
