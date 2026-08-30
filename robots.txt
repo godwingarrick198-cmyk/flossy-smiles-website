@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://godwingarrick198-cmyk.github.io/flossy-smiles-website/sitemap.xml
